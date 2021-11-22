@@ -58,7 +58,7 @@ module.exports = {
   socialMedia: [
     {
       name: "Linkedin",
-      url: "https://mx.linkedin.com/in/cristian-medina-1827931b4",
+      url: "https://www.linkedin.com/in/cristian-medina-gonzalez-1827931b4/",
     },
     {
       name: "ORCID",
@@ -68,10 +68,10 @@ module.exports = {
       name: "Github",
       url: "https://github.com/CristianMedina123/",
     },
-    {
-      name: "Mail",
-      url: "https://www.behance.net/konstanmnster",
-    },
+    // {
+    //   name: "Mail",
+    //   url: "https://www.behance.net/konstanmnster",
+    // },
     // {
     //   name: "Mail",
     //   url: "mailto:mail@konstantin.digital",
@@ -97,7 +97,7 @@ module.exports = {
     button: {
       useFileName: true,
       name: "Resume",
-      fileName: "cv_CristianMedinaGonzalez.pdf", // the file has to be placed inside the static folder at the root level
+      fileName: "cv_CristianMedinaGonzalezEn.pdf", // the file has to be placed inside the static folder at the root level
       url: "", // if useFileName=false, you can set an anchor link here and use the button for navigational purposes
     },
   },

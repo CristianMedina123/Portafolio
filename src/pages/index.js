@@ -169,6 +169,7 @@ export const pageQuery = graphql`
             title
             name
             email
+            tel
             profileImage {
               childImageSharp {
                 fluid(maxWidth: 400, quality: 90) {
